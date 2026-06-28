@@ -1,9 +1,9 @@
 # RSA-OAEP-256 Encryption Tool (2048-bit) — TP Kripto
 
 ## Dibuat oleh:
-### - Gilbert Kristian
-### - Husin Hidayatul Hakim
-### - Ivan Jehuda Angi
+- Gilbert Kristian
+- Husin Hidayatul Hakim
+- Ivan Jehuda Angi
 
 Implementasi mandiri (full custom, tanpa library kriptografi) skema enkripsi
 **RSA-OAEP** dengan padding **OAEP berbasis SHA-256** dan kunci **2048 bit**,
