@@ -1,4 +1,4 @@
-# RSA-OAEP-256 Encryption Tool (2048-bit) — TP Kripto
+# RSA-OAEP-256 Encryption Tool (2048-bit)
 
 ## Dibuat oleh:
 - Gilbert Kristian
